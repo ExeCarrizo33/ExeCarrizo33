@@ -53,6 +53,8 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=ExeCarrizo33&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ExeCarrizo33)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ExeCarrizo33&theme=material-palenight)](https://github.com/ExeCarrizo33)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExeCarrizo33&theme=tokyonight)
+
 </div>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
