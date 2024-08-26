@@ -11,13 +11,13 @@
 <h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,angular,ts,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=html,css,angular,ts,bootstrap,redux" />
   </a>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   </a>
 </p>
 <h3 align="center">Version Control & CI/CD</h3>
