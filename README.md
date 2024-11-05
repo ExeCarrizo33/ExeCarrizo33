@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hola soy Exequiel Carrizo! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
-<h3 align="center">Trainee Back end developer, estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat</h3>
+<h3 align="center">Trainee Backend developer, estudiando el título intermedio de Analista de Sistemas en Universidad Champagnat</h3>
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
